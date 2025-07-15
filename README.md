@@ -2,7 +2,6 @@
 
 **PassX** is a secure, modern password manager built with React, Node.js, Express, and SQL. It lets users store, organize, and manage passwords securely in a user-friendly vault interface.
 
-![PassX Banner](./assets/passx-banner.png)
 
 ---
 
