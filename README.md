@@ -25,3 +25,12 @@
 ### 📝 Signup Page
 ![Signup](assets/signup.png)
 ![Signup](assets/signup1.png)
+
+---
+
+
+### 🏠 Home Page
+![Home](assets/home.png)
+![Home](assets/home1.png)
+
+---
