@@ -34,3 +34,22 @@
 ![Home](assets/home1.png)
 
 ---
+
+
+### 🛡️ Vault Page
+![Vault](assets/vault.png)
+![Vault](assets/vault1.png)
+
+---
+
+### ⚙️ Password Generator
+![Generator](assets/generator.png)
+![Generator](assets/generator1.png)
+
+---
+
+### 📊 Password Analyzer
+![Analyzer](assets/analyzer.png)
+![Analyzer](assets/analyzer1.png)
+
+
