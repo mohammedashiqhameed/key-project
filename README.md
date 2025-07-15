@@ -25,5 +25,3 @@
 ### 📝 Signup Page
 ![Signup](assets/signup.png)
 ![Signup](assets/signup1.png)
-
----
